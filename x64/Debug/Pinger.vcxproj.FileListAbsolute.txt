@@ -1,0 +1,2 @@
+E:\IbrahimProject\My Projects\Pinger\x64\Debug\Pinger.exe
+E:\IbrahimProject\My Projects\Pinger\x64\Debug\Pinger.pdb
